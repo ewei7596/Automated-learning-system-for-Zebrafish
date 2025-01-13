@@ -11,4 +11,6 @@ The code in motor_lights_code.ide is written for Arduino systems in Arduino IDE.
 
 The code for camera recording will be in automated_recording.py, coded in Python 3.8 for a NVIDIA Jetson TX2 model. It allows for automatic recording for a specified time, with the files being stored in a external hard drive.
 
+![IMG_6318](https://github.com/user-attachments/assets/7aeb520f-7d6e-4b3a-a90f-c7589c5c3d60)
+
 The footage gathered from the camera is later processed with object detecting algorithms, and the swimming patterns of each fish are analyzed to determine if they are moving towards and stay at the red light's location.
