@@ -3,5 +3,5 @@ history | grep source
 !179
 
 if it doesnt work: v4l2-ctl --list-devices
-if look at usb code, if it is 0, 1, or 2
+if look at usb code, if it is 0, 1, 2, 3, etc.
 change cap = cv2.VideoCapture(x) x = number in terminal
