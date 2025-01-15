@@ -1,0 +1,12 @@
+Light pins - 
+GND --> GND
+Red --> PWM 8
+Yellow --> PWM 9
+Green --> PWM 10
+
+Motor pins -
+PWM 3
+5V
+GND
+
+To upload same code to multiple arduino systems in succession, take all wires out of Arduino board, upload, then place back on. If you do not do it in this process, you get errors with the port and recognition.
